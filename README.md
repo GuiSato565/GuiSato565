@@ -6,7 +6,7 @@
 
 🖥️ I am an amateur programmer for Web Sites, Java, PHP, C # and C ++
 
-my CodePen: https://codepen.io/guisato565
+My CodePen: https://codepen.io/guisato565
 
 ------------------
 
