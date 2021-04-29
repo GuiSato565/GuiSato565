@@ -4,8 +4,6 @@
 
 📝 I am currently in the 3rd semester of college. And I'm looking for an internship in IT.
 
-🖥️ I am an amateur programmer for Web Sites, Java, PHP, C # and C ++
-
 My CodePen: https://codepen.io/guisato565
 
 <!--
