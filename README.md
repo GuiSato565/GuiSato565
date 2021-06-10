@@ -5,6 +5,7 @@
 📝 I am currently in the 3rd semester of college. And I'm looking for an internship in IT.
 
 My CodePen: https://codepen.io/guisato565
+
 My Site: http://gamesbr.atwebpages.com/
 
 <!--
